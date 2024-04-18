@@ -10,4 +10,4 @@ This website showcases captivating animations and the transitions brought to lif
 
 It is made using Html, Css, Js, TailwindCSS, Shery.js.
 
-## Visit my Portfolio here - https://luxuryg.netlify.app/
+## Visit my Webpage here - https://luxuryg.netlify.app/
