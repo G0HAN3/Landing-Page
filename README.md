@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This website showcases captivating animations and the transitions brought to life with SheryJs library and Tailwind CSS in my recent project.
+This website showcases captivating animations and the transitions brought to life with SheryJs library and Tailwind CSS.
 
 It is made using Html, Css, Js, TailwindCSS, Shery.js.
 
